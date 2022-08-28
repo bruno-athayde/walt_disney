@@ -1,0 +1,2 @@
+# walt_disney
+This analysis will investigate the relationship between box office gross and Disney characters of children's movies. This will also investigate the relationship between box office gross and movies' genre. I am interested in finding out if exists any correlation between those variables. For example, one would think that movies with strong heroes like Moana, Alladin, or Elsa would be more popular and, consequently, bring more revenue to the company. Or one would also think that movies' genres are related to a movie success or not.
